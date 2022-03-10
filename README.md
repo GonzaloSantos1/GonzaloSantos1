@@ -3,7 +3,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonzalosantos1" alt="gonzalosantos1" /></a> </p>
 
-<h3 align="center">- 📫 How to reach me **gsantosorellana.dev@gmail.com**</h3>
+<h3 align="center"> 📫 How to reach me:</h3>
+  <p align="center>gsantosorellana.dev@gmail.com </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
