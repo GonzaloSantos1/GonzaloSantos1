@@ -3,7 +3,7 @@ Since I was young I've always been passionate about creating websites. I started
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalosantosorellana) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzalosantosorellana) <br>
 [Portfolio](https://gonzalosantos.com)
 
 # 💻 Tech Stack:
